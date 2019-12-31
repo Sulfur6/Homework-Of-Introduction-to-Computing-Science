@@ -1,7 +1,7 @@
-This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2019.11.9)  29 DEC 2019 17:39
+This is XeTeX, Version 3.1415926-2.3-0.9997.5 (MiKTeX 2.9) (preloaded format=xelatex 2019.11.9)  31 DEC 2019 17:10
 entering extended mode
-**d:/Documents/计算科学导论作业/个人职业规划/TexVersion/main
-(d:/Documents/计算科学导论作业/个人职业规划/TexVersion/main.tex
+**d:/Documents/homework_of_introduction_to_computing_science/个人职业规划/TexVersion/main
+(d:/Documents/homework_of_introduction_to_computing_science/个人职业规划/TexVersion/main.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (D:\Applications\CTEX\MiKTeX\tex\latex\base\article.cls
@@ -540,7 +540,7 @@ Normal \count register pool exhausted, switching to extended pool.
 LaTeX Info: Redefining \today on input line 724.
 \dt@a=\toks22
 \dt@b=\toks23
-) (d:\Documents\计算科学导论作业\个人职业规划\TexVersion\main.aux)
+) (d:\Documents\homework_of_introduction_to_computing_science\个人职业规划\TexVersion\main.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
@@ -841,14 +841,14 @@ Requested font "SimSun/ICU:script=latn;language=DFLT;mapping=tex-text;" at 9.0pt
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[2] [3] [4] [5] (d:\Documents\计算科学导论作业\个人职业规划\TexVersion\main.aux) ) 
+[2] [3] [4] [5] (d:\Documents\homework_of_introduction_to_computing_science\个人职业规划\TexVersion\main.aux) ) 
 Here is how much of TeX's memory you used:
- 16734 strings out of 430478
- 342224 string characters out of 3191177
+ 16737 strings out of 430478
+ 342466 string characters out of 3191177
  362152 words of memory out of 3000000
- 19665 multiletter control sequences out of 15000+200000
+ 19668 multiletter control sequences out of 15000+200000
  6657 words of font info for 57 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 57i,10n,92p,991b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 57i,10n,92p,1028b,362s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on main.pdf (6 pages).
